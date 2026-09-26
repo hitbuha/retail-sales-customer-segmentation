@@ -1,0 +1,25 @@
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# Raw and large datasets
+dataset/raw/
+dataset/cleaned/
+dataset/ml_ready/
+dataset/preprocessed/
+
+# Large PCA files
+dataset/pca/
+
+# Temporary files
+*.log
+
+# OS files
+Thumbs.db
+.DS_Store
